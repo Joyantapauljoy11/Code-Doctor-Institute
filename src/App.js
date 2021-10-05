@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './components/Header/Header';
@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Header></Header>
         <Switch>
-          <Route exact  path="/">
+          <Route exact path="/">
             <Home></Home>
           </Route>
           <Route path="/home">
