@@ -30,7 +30,7 @@
         "condition": "false"
     },
     {
-        "name": " Cyber Security Couses",
+        "name": " Cyber Security Courses",
         "image": "https://s3.amazonaws.com/utep-uploads/wp-content/uploads/unr/2020/07/27160408/unr-mscy-cybersecurity-careers-image.jpg",
         "description": "Many tasks are done online nowadays. Tasks like banking, paying bills, shopping etc are done online. This is convenient for people.",
         "price": "445",
@@ -67,16 +67,6 @@
         "duration": "4h 5m",
         "lesson": "11",
         "id": "7",
-        "condition": "true"
-    },
-    {
-        "name": "Sketch - Mobile App",
-        "image": "https://images.app.goo.gl/G8Neuwr7P2QTuV1D6",
-        "description": "Suspendisse ante mi iaculis ac eleifend id venenatis non eros. Sed rhoncus gravida eli eu sollicitudin.",
-        "price": "195",
-        "id": "12",
-        "duration": "4h 5m",
-        "lesson": "11",
         "condition": "true"
     },
     {
